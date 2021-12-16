@@ -1,0 +1,4 @@
+
+Czas sortowania algorytmem gnoma: 0.237 s
+
+Czas sortowania przez scalanie: 0.001 s
